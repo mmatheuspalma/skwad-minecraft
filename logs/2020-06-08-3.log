@@ -1,0 +1,102 @@
+[22:54:19] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:54:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:54:19] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:54:19] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:54:19] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:54:20] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[22:54:20] [Server thread/INFO]: Loading properties
+[22:54:20] [Server thread/INFO]: Default game type: SURVIVAL
+[22:54:20] [Server thread/INFO]: Generating keypair
+[22:54:21] [Server thread/INFO]: Starting Minecraft server on 127.0.0.1:2020
+[22:54:21] [Server thread/INFO]: Using default channel type
+[22:54:26] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:54:26] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:54:26] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:54:26] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:54:27] [Server thread/INFO]: Preparing level "world"
+[22:54:27] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:54:28] [Server thread/INFO]: Loaded 6 recipes
+[22:54:29] [Server thread/INFO]: Loaded 825 advancements
+[22:54:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:54:33] [Server thread/INFO]: Preparing spawn area: 0%
+[22:54:33] [Server thread/INFO]: Preparing spawn area: 0%
+[22:54:33] [Server thread/INFO]: Preparing spawn area: 0%
+[22:54:33] [Server thread/INFO]: Preparing spawn area: 0%
+[22:54:33] [Server thread/INFO]: Preparing spawn area: 0%
+[22:54:33] [Server thread/INFO]: Preparing spawn area: 0%
+[22:54:34] [Server thread/INFO]: Preparing spawn area: 48%
+[22:54:37] [Server-Worker-5/INFO]: Preparing spawn area: 83%
+[22:54:37] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[22:54:37] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[22:54:37] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[22:54:37] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[22:54:37] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[22:54:37] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[22:54:37] [Server-Worker-3/INFO]: Preparing spawn area: 83%
+[22:54:38] [Server-Worker-7/INFO]: Preparing spawn area: 83%
+[22:54:38] [Server-Worker-6/INFO]: Preparing spawn area: 83%
+[22:54:39] [Server-Worker-4/INFO]: Preparing spawn area: 83%
+[22:54:40] [Server-Worker-6/INFO]: Preparing spawn area: 84%
+[22:54:40] [Server-Worker-6/INFO]: Preparing spawn area: 85%
+[22:54:40] [Server thread/INFO]: Preparing spawn area: 85%
+[22:54:41] [Server-Worker-5/INFO]: Preparing spawn area: 92%
+[22:54:41] [Server-Worker-3/INFO]: Preparing spawn area: 94%
+[22:54:42] [Server thread/INFO]: Preparing spawn area: 98%
+[22:54:42] [Server thread/INFO]: Time elapsed: 11535 ms
+[22:54:42] [Server thread/INFO]: Done (15.443s)! For help, type "help"
+[22:59:37] [Server thread/INFO]: palmusk[/127.0.0.1:58301] logged in with entity id 45 at (86.5, 70.0, 175.5)
+[22:59:38] [Server thread/INFO]: palmusk joined the game
+[22:59:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6605ms or 132 ticks behind
+[23:03:16] [Server thread/INFO]: Kirizuro[/127.0.0.1:58330] logged in with entity id 971 at (100.5, 64.0, 157.5)
+[23:03:16] [Server thread/INFO]: Kirizuro joined the game
+[23:03:25] [Server thread/INFO]: Kirizuro lost connection: Disconnected
+[23:03:25] [Server thread/INFO]: Kirizuro left the game
+[23:03:26] [Server thread/INFO]: FrangoXadrez[/127.0.0.1:58335] logged in with entity id 992 at (93.5, 64.0, 171.5)
+[23:03:26] [Server thread/INFO]: FrangoXadrez joined the game
+[23:04:35] [Server thread/INFO]: Kirizuro[/127.0.0.1:58344] logged in with entity id 1110 at (94.53581797148448, 64.0, 158.3773265913236)
+[23:04:35] [Server thread/INFO]: Kirizuro joined the game
+[23:04:39] [Server thread/INFO]: Kirizuro lost connection: Disconnected
+[23:04:39] [Server thread/INFO]: Kirizuro left the game
+[23:05:36] [Server thread/INFO]: FrangoXadrez has made the advancement [Monster Hunter]
+[23:06:25] [Server thread/INFO]: palmusk has made the advancement [Monster Hunter]
+[23:06:37] [Server thread/INFO]: Kirizuro[/127.0.0.1:58354] logged in with entity id 1520 at (94.53581797148448, 64.0, 158.3773265913236)
+[23:06:37] [Server thread/INFO]: Kirizuro joined the game
+[23:06:51] [Server thread/INFO]: palmusk was shot by Skeleton
+[23:06:52] [Server thread/INFO]: Kirizuro lost connection: Disconnected
+[23:06:52] [Server thread/INFO]: Kirizuro left the game
+[23:09:57] [Server thread/INFO]: palmusk has made the advancement [Stone Age]
+[23:12:16] [Server thread/INFO]: Kirizuro[/127.0.0.1:58384] logged in with entity id 2681 at (94.72597811688291, 63.0, 150.78111493828806)
+[23:12:16] [Server thread/INFO]: Kirizuro joined the game
+[23:12:17] [Server thread/INFO]: Kirizuro lost connection: Disconnected
+[23:12:17] [Server thread/INFO]: Kirizuro left the game
+[23:13:17] [Server thread/INFO]: FrangoXadrez has made the advancement [Stone Age]
+[23:13:36] [Server thread/INFO]: palmusk has made the advancement [Getting an Upgrade]
+[23:13:53] [Server thread/INFO]: Kirizuro[/127.0.0.1:58394] logged in with entity id 2836 at (94.72597811688291, 63.0, 150.78111493828806)
+[23:13:53] [Server thread/INFO]: Kirizuro joined the game
+[23:14:26] [Server thread/INFO]: FrangoXadrez has made the advancement [Getting an Upgrade]
+[23:16:00] [Server thread/INFO]: palmusk fell from a high place
+[23:17:46] [Server thread/INFO]: Kirizuro has made the advancement [Monster Hunter]
+[23:22:25] [Server thread/INFO]: Kirizuro has made the advancement [Stone Age]
+[23:25:09] [Server thread/INFO]: Kirizuro has made the advancement [Getting an Upgrade]
+[23:28:29] [Server thread/INFO]: <palmusk> 268 85
+[23:28:36] [Server thread/INFO]: <Kirizuro> 356 154
+[23:29:12] [Server thread/INFO]: Kirizuro has made the advancement [Acquire Hardware]
+[23:29:38] [Server thread/INFO]: <Kirizuro> 45.515 42
+[23:29:56] [Server thread/INFO]: <palmusk> 394 59
+[23:31:26] [Server thread/INFO]: FrangoXadrez was shot by Skeleton
+[23:31:36] [Server thread/INFO]: Kirizuro was shot by Skeleton
+[23:32:06] [Server thread/INFO]: <palmusk> 614 61
+[23:32:34] [Server thread/WARN]: Kirizuro moved too quickly! -9.146525084156707,0.0,-4.146352127842022
+[23:34:51] [Server thread/WARN]: FrangoXadrez moved too quickly! -0.07959223721820052,0.0,10.143406478773016
+[23:34:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
+[23:36:59] [Server thread/INFO]: <Kirizuro> 107 63
+[23:41:41] [Server thread/INFO]: FrangoXadrez was slain by Zombie
+[23:47:43] [Server thread/INFO]: FrangoXadrez was shot by Skeleton
+[23:49:04] [Server thread/INFO]: Kirizuro has made the advancement [Suit Up]
+[23:49:07] [Server thread/INFO]: FrangoXadrez has made the advancement [Suit Up]
+[23:51:34] [Server thread/INFO]: FrangoXadrez was slain by Zombie
+[23:51:54] [Server thread/INFO]: palmusk has made the advancement [Acquire Hardware]
+[23:52:29] [Server thread/INFO]: palmusk has made the advancement [Isn't It Iron Pick]
+[23:57:01] [Server thread/INFO]: Kirizuro has made the advancement [Isn't It Iron Pick]
+[23:58:26] [Server thread/INFO]: FrangoXadrez has made the advancement [Isn't It Iron Pick]
+[23:59:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2326ms or 46 ticks behind
